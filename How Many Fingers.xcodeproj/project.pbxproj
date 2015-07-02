@@ -13,6 +13,8 @@
 		309CC0F01B18B94000D1E978 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 309CC0EF1B18B94000D1E978 /* Images.xcassets */; };
 		309CC0F31B18B94000D1E978 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 309CC0F11B18B94000D1E978 /* LaunchScreen.xib */; };
 		309CC0FF1B18B94000D1E978 /* How_Many_FingersTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 309CC0FE1B18B94000D1E978 /* How_Many_FingersTests.swift */; };
+		309CC1091B18C81800D1E978 /* images.png in Resources */ = {isa = PBXBuildFile; fileRef = 309CC1081B18C81800D1E978 /* images.png */; };
+		309CC10A1B18C81800D1E978 /* images.png in Resources */ = {isa = PBXBuildFile; fileRef = 309CC1081B18C81800D1E978 /* images.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +38,7 @@
 		309CC0F81B18B94000D1E978 /* How Many FingersTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "How Many FingersTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		309CC0FD1B18B94000D1E978 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		309CC0FE1B18B94000D1E978 /* How_Many_FingersTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = How_Many_FingersTests.swift; sourceTree = "<group>"; };
+		309CC1081B18C81800D1E978 /* images.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = images.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -80,6 +83,7 @@
 				309CC0E81B18B94000D1E978 /* AppDelegate.swift */,
 				309CC0EA1B18B94000D1E978 /* ViewController.swift */,
 				309CC0EC1B18B94000D1E978 /* Main.storyboard */,
+				309CC1081B18C81800D1E978 /* images.png */,
 				309CC0EF1B18B94000D1E978 /* Images.xcassets */,
 				309CC0F11B18B94000D1E978 /* LaunchScreen.xib */,
 				309CC0E61B18B94000D1E978 /* Supporting Files */,
@@ -195,6 +199,7 @@
 				309CC0EE1B18B94000D1E978 /* Main.storyboard in Resources */,
 				309CC0F31B18B94000D1E978 /* LaunchScreen.xib in Resources */,
 				309CC0F01B18B94000D1E978 /* Images.xcassets in Resources */,
+				309CC1091B18C81800D1E978 /* images.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -202,6 +207,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				309CC10A1B18C81800D1E978 /* images.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
